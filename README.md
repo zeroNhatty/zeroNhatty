@@ -14,7 +14,7 @@
 
 ### Projects & Explorations
 
-*   **[V-ANSI](https://github.com/zeroNhatty/V-ANSI)**: A systems programming exercise testing how to utilize ANSI escape codes to output formatted text directly in the console.
+*   **[V-ANSI](https://github.com/zeroNhatty/V-ANSI)**: A systems programming exercise testing how to utilize ANSI escape codes to output formatted text directly in the console to play a video.
 *   **[boom-runner](https://github.com/zeroNhatty/boom-runner)**: An OpenGL game (currently implementing components and testing rendering performance).
 *   **[manpo](https://github.com/zeroNhatty/manpo)**: An automation tool in Java designed to update and control my portfolio projects configurations.
 *   **maddog** *(Proprietary)*: A custom C# binary serialization system built to manage and serialize local game data for Unity-based projects at HaHu Phoenix.
