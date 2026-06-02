@@ -28,11 +28,11 @@
   <a href="mailto:natnael.netsanet@gmail.com">
     <img src="https://api.iconify.design/ph/envelope-simple.svg?color=%239dabb0" width="24" height="24" alt="Email" style="vertical-align:middle; margin-right:12px;" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://t.me/zerogitt" target="_blank" rel="noopener noreferrer">
     <img src="https://api.iconify.design/ph/paper-plane-tilt.svg?color=%239dabb0" width="24" height="24" alt="Telegram" style="vertical-align:middle; margin-right:12px;" />
   </a>
- 
+   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/natnael-netsanet-zero/" target="_blank" rel="noopener noreferrer">
     <img src="https://api.iconify.design/ph/linkedin-logo.svg?color=%239dabb0" width="24" height="24" alt="LinkedIn" style="vertical-align:middle; margin-right:12px;" />
   </a>
