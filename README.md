@@ -6,7 +6,7 @@
 
 ### Familiar Languages & Tools
 
-*   **Languages (Comfortable Using):** C#, Java, C, Python, SQL, Bash
+*   **Languages (Comfortable Using):** C#, Java, C, C++, Python, SQL, Bash
 *   **Version Control & Game Engines:** Git, Gitea, Unity 3D
 *   **Asset Pipelines & Operating Systems:** Blender (3D Asset Prep), Linux/Unix (Command Line)
 
