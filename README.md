@@ -1,4 +1,4 @@
-# Natnael Netsanet (Zero)
+# Natnael Netsanet (zero)
 
 3rd-year Computer Science student at **Hope Enterprise University College** and Developer at **HaHu Phoenix**. Focused on game implementation, custom developer tools, and experimenting with software systems.
 
